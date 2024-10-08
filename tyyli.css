@@ -98,7 +98,7 @@ label {
   display: inline-block;
 }
 
-input[type=lähetä] {
+input[type=submit] {
   background-color: #296A8B;
   color: white;
   padding: 12px 20px;
@@ -151,8 +151,11 @@ footer {
         font-size: 25px;
     }
     .col-75, textarea {
-      width: 90%;
+      width: 85%;
       margin-top: 0;                  
+ }
+ input[type=submit] {
+  width: 20%;
  }
  ul {
   flex-direction: column;
