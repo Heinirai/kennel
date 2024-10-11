@@ -142,18 +142,17 @@ footer {
 
 @media only screen and (max-width: 650px) {
     section{ 
-               width: 90%; 
+            width:90%; 
     }
     header  {
-        font-size: 19px;
-        
+        font-size:19px;   
     }
   
   .alaotsikko {
-        font-size: 18px;
+        font-size:18px;
   }
     section {
-      font-size: 15px;
+      font-size:15px;
     } 
 
   input[type=submit] {
