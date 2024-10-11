@@ -146,6 +146,7 @@ footer {
     }
     header  {
         font-size: 22px;
+        word-wrap: break-word;
     }
   
   .alaotsikko {
@@ -154,7 +155,7 @@ footer {
     section {
       font-size: 15px;
     } 
-              
+
   input[type=submit] {
    width: 50%;
   }
