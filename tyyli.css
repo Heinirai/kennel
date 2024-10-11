@@ -145,12 +145,12 @@ footer {
                width: 90%; 
     }
     header  {
-        font-size: 21px;
-        word-wrap: break-word;
+        font-size: 20px;
+        
     }
   
   .alaotsikko {
-        font-size: 19px;
+        font-size: 18px;
   }
     section {
       font-size: 15px;
