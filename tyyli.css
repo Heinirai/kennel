@@ -145,14 +145,14 @@ footer {
             width:90%; 
     }
     header  {
-        font-size:19px;   
+        font-size: 5vw;
     }
   
   .alaotsikko {
-        font-size:18px;
+        font-size:4vw;
   }
     section {
-      font-size:15px;
+      font-size:3.5vwpx;
     } 
 
   input[type=submit] {
