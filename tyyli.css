@@ -144,9 +144,13 @@ footer {
     section{ 
                width: 75%; 
     }
-    header {
-        font-size: 23px;
+    header h1, h2 {
+        font-size: 20px;
     }
+  
+  .alaotsikko {
+        font-size: 15px;
+  }
                 
   input[type=submit] {
    width: 50%;
